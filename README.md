@@ -2,8 +2,8 @@
 
 - 👨‍💻 Desenvolvedor em formação.
 - 📖 Estudante de Analise e Desenvolvimento de Sistemas.
-- 👀 Visite meus perfis abaixo.
 - 📱 Entre em contato: bradley.mafra0909@gmail.com
+- 👀 Visite meus perfis abaixo.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bradley-mafra-21148120b/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bradley_mafra/)
