@@ -8,7 +8,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bradley-mafra-21148120b/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bradley_mafra/)
 
-
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BradleyMafra&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=ff8da4&icon_color=c2f0ff">
+</p>
 ### Tecnologias
 
 <div style="display: inline_block"><br/>
