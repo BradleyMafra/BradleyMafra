@@ -18,9 +18,3 @@
     <img align="center" alt ="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt ="mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 <div/> 
-
-  
-  
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BradleyMafra&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=ff8da4&icon_color=eafaff">
-</p>
