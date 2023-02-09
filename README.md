@@ -8,9 +8,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bradley-mafra-21148120b/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bradley_mafra/)
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BradleyMafra&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=ff8da4&icon_color=eafaff">
-</p>
 ### Tecnologias
 
 <div style="display: inline_block"><br/>
@@ -21,3 +18,9 @@
     <img align="center" alt ="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt ="mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 <div/> 
+
+  
+  
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BradleyMafra&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=ff8da4&icon_color=eafaff">
+</p>
