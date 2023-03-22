@@ -19,7 +19,13 @@
   <img align="center" alt="Bradley-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
    <img align="center" alt="Bradley-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
 <div/>
- <br></br>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
 <div align="center">
   <a href="https://github.com/BradleyMafra">
