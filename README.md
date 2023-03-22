@@ -19,6 +19,8 @@
   <img align="center" alt="Bradley-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
    <img align="center" alt="Bradley-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
 <div/>
+ 
+ 
 <div align="center">
   <a href="https://github.com/BradleyMafra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BradleyMafra&layout=compact&langs_count=7&theme=midnight-purple"/>
