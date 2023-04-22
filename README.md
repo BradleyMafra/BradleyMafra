@@ -1,7 +1,6 @@
 ## Olá! Me chamo Bradley Mafra! 👋
 
 - 👨‍💻 Desenvolvedor em formação.
-- 📖 Estudante de Analise e Desenvolvimento de Sistemas.
 - 📱 Entre em contato: bradley.mafra0909@gmail.com
 - 👀 Visite meus perfis abaixo.
 
