@@ -6,8 +6,7 @@
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bradley-mafra-21148120b/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bradley_mafra/) 
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-
+https://www.buymeacoffee.com/bradleymafD
 
 <div align="center">
   <a href="https://github.com/BradleyMafra">
