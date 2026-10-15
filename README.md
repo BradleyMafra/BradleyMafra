@@ -1,37 +1,53 @@
-## Olá! Me chamo Bradley Mafra! 👋
+<h1 align="center">Hey, I'm Bradley 👋</h1>
 
-- 👨‍💻 Desenvolvedor Full Stack.
-- 👀 Visite meus perfis abaixo.
+<p align="center">
+  <b>Tech Lead & Full Stack Engineer</b><br>
+  Building, modernizing and occasionally breaking things just to understand how they work.
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/bradley-mafra-21148120b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/bradley_mafra/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bradley-mafra-21148120b/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bradley_mafra/) 
+---
 
-<div align="start">
-  <a href="https://github.com/BradleyMafra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BradleyMafra&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+### 👨‍💻 About me
 
+I'm a **Tech Lead and Full Stack Engineer** from Brazil, focused on software architecture, legacy modernization and modern web development.
 
-### Tecnologias
+Currently, I work on the modernization of a **30+ year-old legacy platform**, helping define architecture, engineering standards, code quality and technical decisions while staying hands-on with development.
 
- <div style="display: inline_block"><br>
-  <img align="center" alt="Bradley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bradley-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Bradley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bradley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bradley-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Bradley-React-original" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Bradley-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Bradley-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
-  <img align="center" alt="Bradley-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Bradley-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-<div/>
- 
- 
- 
- 
- 
- 
- 
- 
+Outside of work, I enjoy building side projects — from social platforms and automation bots to digital collections, portfolios and random experiments that start with:
 
+> "What if I build this myself?"
+
+---
+
+### ⚙️ Tech
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,php,laravel,go,nodejs,mysql,docker,aws,git,github" />
+</p>
+
+**Also working with:** Firebird · REST APIs · CI/CD · Playwright · Vitest
+
+---
+
+### 🧠 Things I enjoy
+
+`Software Architecture` · `Legacy Modernization` · `Automation` · `Security` · `Clean Code` · `Side Projects`
+
+---
+
+### 🛠️ Currently
+
+```text
+💼 Leading technical decisions and modernization projects
+🔨 Building side projects whenever an idea refuses to leave my head
+🔐 Exploring application security and pentesting
+📚 Always learning something new
